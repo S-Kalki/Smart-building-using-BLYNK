@@ -1,5 +1,3 @@
-# Smart-building-using-BLYNK
-Automation of buildings using Sensors and BLYNK
 # Smart Building Using BLYNK
 A smart building automation project using ESP32 and BLYNK app to remotely control LEDs and buzzers and monitor temperature in real-time.
 
